@@ -1,0 +1,10 @@
+# Logfile created on 2014-01-26 19:06:08 +0000 by logger.rb/41954
+I, [2014-01-26T19:06:08.291600 #51044]  INFO -- : 0:  hashery (2.1.1) from /Users/Hasnain/.rvm/gems/ruby-2.1.0-head/specifications/hashery-2.1.1.gemspec
+I, [2014-01-26T19:06:08.291677 #51047]  INFO -- : 3:  ruby-rc4 (0.1.5) from /Users/Hasnain/.rvm/gems/ruby-2.1.0-head/specifications/ruby-rc4-0.1.5.gemspec
+I, [2014-01-26T19:06:08.292899 #51046]  INFO -- : 2:  afm (0.2.0) from /Users/Hasnain/.rvm/gems/ruby-2.1.0-head/specifications/afm-0.2.0.gemspec
+I, [2014-01-26T19:06:08.293133 #51045]  INFO -- : 1:  Ascii85 (1.0.2) from /Users/Hasnain/.rvm/gems/ruby-2.1.0-head/specifications/Ascii85-1.0.2.gemspec
+I, [2014-01-26T19:06:08.305070 #51044]  INFO -- : 0:  ttfunk (1.1.0) from /Users/Hasnain/.rvm/gems/ruby-2.1.0-head/specifications/ttfunk-1.1.0.gemspec
+I, [2014-01-26T19:06:08.305391 #51045]  INFO -- : 1:  unicode_utils (1.4.0) from /Users/Hasnain/.rvm/gems/ruby-2.1.0-head/specifications/unicode_utils-1.4.0.gemspec
+I, [2014-01-26T19:06:08.305681 #51047]  INFO -- : 3:  bundler (1.5.1) from /Users/Hasnain/.rvm/gems/ruby-2.1.0-head@global/specifications/bundler-1.5.1.gemspec
+I, [2014-01-26T19:06:08.306601 #51046]  INFO -- : 2:  pdf-reader (1.3.3) from /Users/Hasnain/.rvm/gems/ruby-2.1.0-head/specifications/pdf-reader-1.3.3.gemspec
+I, [2014-01-26T19:06:08.306652 #51044]  INFO -- : 0:  punkt-segmenter (0.9.1) from /Users/Hasnain/.rvm/gems/ruby-2.1.0-head/specifications/punkt-segmenter-0.9.1.gemspec
